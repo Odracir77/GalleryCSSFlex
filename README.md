@@ -1,2 +1,2 @@
 # GalleryCSSFlex
-Fast allery using CSS and flexbox
+Responsive gallery using CSS and flexbox
